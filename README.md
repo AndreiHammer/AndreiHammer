@@ -26,7 +26,7 @@
 ---
 
 ## 📊 Languages 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiHammer&langs_count=5&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiHammer&langs_count=6&layout=compact&theme=tokyonight)
 
 
 

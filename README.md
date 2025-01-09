@@ -22,16 +22,6 @@
   ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)  
   ![Ktor](https://img.shields.io/badge/-Ktor-00599C?style=for-the-badge&logo=ktor&logoColor=white)
 
-
----
-
-## 📊 Languages 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiHammer&langs_count=6&layout=compact&theme=tokyonight)
-
-
-
----
-
 ## 📬 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/andrei-ciocan-156339276/)  
